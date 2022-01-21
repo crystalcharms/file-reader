@@ -1,0 +1,12 @@
+Total number of students: 7
+Bad Boy [20, 15, 32, 41] Average = 32
+Good Son [89, 90, 98, 94] Average = 98
+Dr. Chu [96, 75, 100, 99] Average = 100
+Lone Star [85, 91, 78, 100] Average = 78
+Tom Tom [50, 60, 70, 80] Average = 70
+Sally Soso [78, 67, 72, 75] Average = 72
+Bump Onalog [55, 63, 58, 49] Average = 58
+
+Highest Student Average = 100
+Lowest Student Average = 58
+Overall Class Average = 79
